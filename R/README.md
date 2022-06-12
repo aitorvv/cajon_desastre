@@ -10,6 +10,6 @@ Contents:
 Other resources:
 - [plot function explanation](https://www.rdocumentation.org/packages/graphics/versions/3.6.2/topics/plot)
 - [qplot function explanation](https://github.com/aitorvv96/graficos_con_R)
-- ggplot2 package resources:[1](https://cran.r-project.org/web/packages/ggplot2/index.html) / [2](https://ggplot2-book.org/)
+- ggplot2 package resources: [1](https://cran.r-project.org/web/packages/ggplot2/index.html) / [2](https://ggplot2-book.org/)
 - [R functions to plot](https://www.rdocumentation.org/search?q=plot)
 
