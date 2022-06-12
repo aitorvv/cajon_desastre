@@ -1,0 +1,17 @@
+en:
+
+  general:  # general information
+
+    forest: Forest
+    study_area: Study Area
+    model: Model
+    scenario: Scenario
+    inventory: Inventory
+    plot: Plot
+
+  area:
+
+    LONGITUDE: Longitude
+    LATITUDE: Latitude
+    ALTITUDE: Altitude
+    

@@ -1,3 +1,10 @@
+#############################################################
+# Split a csv file
+# Aitor Vázquez Veloso
+# June, 2022
+# Original source: https://github.com/aitorvv96/cajon_desastre
+#############################################################
+
 import pandas as pd
 import os
 

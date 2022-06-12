@@ -1,0 +1,17 @@
+{
+  "menu": {
+    "login": "Iniciar sesión",
+    "help": "Ayuda",
+    "legal": "Aviso Legal"
+  },
+  "error": {
+    "not_authorized": "Prohibido",
+    "incorrect_credentials": "Usuario o contraseña incorrecto",
+    "user_already_exists": "El usuario ya existe"
+  },
+  "cookie": {
+    "header": "Usamos cookies en este sitio",
+    "allow": "Permitir cookies",
+    "deny": "Rechazar"
+  }
+}
