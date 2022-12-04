@@ -1,4 +1,13 @@
-**Transformar un documento con extensión .md a .pdf en Linux**
+<center>
+
+# **Transformar un documento con extensión .md a .pdf en Linux**
+
+</center>
+<center>
+
+[Cajón desastre](https://github.com/aitorvv96/cajon_desastre)
+
+</center>
 
 ---
 
@@ -16,4 +25,12 @@ Donde *your_markdown.md* es el archivo que queremos transformar a *.pdf*.
 Estos dos comandos nos permitirán instalar *grip* y abrir el documento en nuestro navegador por defecto, de tal manera que para verlo tan solo tenemos que acceder a http://localhost:5000/ desde nuestro navegador, donde se visualizará el documento. Esto nos permitirá hacer los cambios necesarios en nuestro archivo *.md*, referescar el navegador para ver los cambios, e imprimir el documento en *.pdf* de la misma manera que lo haríamos con cualquier página web (Opciones>Imprimir>PDF).
  
 Más información [aquí](https://superuser.com/questions/689056/how-can-i-convert-github-flavored-markdown-to-a-pdf)
+
+
+---
+<center>
+
+[Cajón desastre](https://github.com/aitorvv96/cajon_desastre) - [Aitor Vázquez Veloso](https://www.linkedin.com/in/aitorvazquezveloso)
+
+</center>
 
