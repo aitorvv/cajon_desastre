@@ -43,7 +43,7 @@ Están estructurados según el lenguaje del código:
 
 
 Además, en mi perfil encontrarás otros repositorios que pueden ser de tu interés, por ejemplo:
-- aquí recopilo información para introducirme al mundo de la [Inteligencia Artificial](https://github.com/aitorvv96/road_to_AI)
+- aquí recopilo información para introducirme al mundo de la [Inteligencia Artificial](https://github.com/aitorvv/road_to_AI)
 - [estos repositorios](https://github.com/orgs/simanfor/repositories) contienen todo lo que cualquier usuario de [SIMANFOR](http://www.simanfor.es/) necesita para utilizar el simulador desde su página web (o esa era mi intención)
 - [este otro](https://github.com/simanfor-dask/CrossForest-simulations) contiene los resultados de las simulaciones del proyecto CrossForest que hemos realizado
 - he colaborado en la elaboración de [cheatsheets](https://github.com/VirtualForests/cheatsheets) de Linked Open Data, R para forestales, teledetección...
@@ -59,7 +59,7 @@ Además, en mi perfil encontrarás otros repositorios que pueden ser de tu inter
 
 ```
 
-- he estado indagando sobre cómo crear una librería en python, [aquí](https://github.com/aitorvv96/paquete_prueba_python) tienes más información
+- he estado indagando sobre cómo crear una librería en python, [aquí](https://github.com/aitorvv/paquete_prueba_python) tienes más información
 - también he contribuido a este [repositorio](https://github.com/SMART-Global-Ecosystems/hackathon_GEE_feb-2022) con mi granito de arena
 
 Más información:
@@ -69,7 +69,7 @@ Más información:
 ---
 <center>
 
-[Cajón desastre](https://github.com/aitorvv96/cajon_desastre) - [Aitor Vázquez Veloso](https://www.linkedin.com/in/aitorvazquezveloso)
+[Cajón desastre](https://github.com/aitorvv/cajon_desastre) - [Aitor Vázquez Veloso](https://www.linkedin.com/in/aitorvazquezveloso)
 
 </center>
 

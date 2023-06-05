@@ -5,11 +5,13 @@
 </center>
 <center>
 
-[Cajón desastre](https://github.com/aitorvv96/cajon_desastre)
+[Cajón desastre](https://github.com/aitorvv/cajon_desastre)
 
 </center>
 
 ---
+
+# Configurar un ordenador con las mismas librerías que otro que ya está en funcionamiento
 
 Para configurar tu nuevo ordenador instalando las librerías que tenías en tu ordenador antiguo, basta con aplicar dos sencillos comandos. En tu ordenador antiguo, ejecuta lo siguiente (en el terminal) para recopilar las librerías y versiones que tienes instaladas:
 ```
@@ -21,6 +23,23 @@ pip install -r python_packages.txt
 ```
 Y con estos pasos ya tendrías todas las librerías instaladas.
 
+---
+
+# Crear un entorno virtual en Python
+
+1. Create the virtual environment on the desired folder:
+
+`python -m venv venv`
+
+2. Activate the virtual environment:
+
+`source venv/bin/activate`
+
+3. Install the libraries needed from a requirements.txt file:
+
+`pip install -r requirements.txt`
+
+---
 
 Contenido:
 * **colab_basicos.ipynb**: comandos básicos para leer y exportar datos de Colab / *basic comands to read and export data from Colab* - **english**
@@ -30,6 +49,7 @@ Contenido:
 * **split_csv.ipynb**: código para dividir un archivo .csv en archivos más pequeños en una carpeta de Google Drive utilizando Colab / *code to divide a .csv file into smaller files on a Google Drive folder with Colab* - **english**
 * **split_csv.py**: código para dividir un archivo .csv en archivos más pequeños. Ejecútalo, introduce la ruta de tu archivo .csv y el número de filas máxima de cada archivo para hacerlo funcionar / *code to divide a csv file into smaller files. Execute it and enter the path of the .csv file you want to split and the number of rows of the split files* - **english** 
   - *en Linux:*
+* **Python_basics.pdf**: an interesting Python introduction found [here](https://www.linkedin.com/in/yanala-manideep-reddy-b25064211/) 
 ```
 python3 split_csv.py
 Paste here the path of your csv file: ./Descargas/test.csv
@@ -43,7 +63,7 @@ How many rows do you want to obtain per file?: 5
 ---
 <center>
 
-[Cajón desastre](https://github.com/aitorvv96/cajon_desastre) - [Aitor Vázquez Veloso](https://www.linkedin.com/in/aitorvazquezveloso)
+[Cajón desastre](https://github.com/aitorvv/cajon_desastre) - [Aitor Vázquez Veloso](https://www.linkedin.com/in/aitorvazquezveloso)
 
 </center>
 

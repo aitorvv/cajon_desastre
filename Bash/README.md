@@ -5,7 +5,7 @@
 </center>
 <center>
 
-[Cajón desastre](https://github.com/aitorvv96/cajon_desastre)
+[Cajón desastre](https://github.com/aitorvv/cajon_desastre)
 
 </center>
 
@@ -24,12 +24,20 @@ pwd
 ```
 ---
 
-# Sustituir el contenido de un archivo:
+# Reemplazar una cadena de texto por otra dentro de un archivo:
 
-Para sustituir contenido de los archivos de una carpeta por otra, desde el terminal, usa:
+Para sustituir contenido de los archivos de una determinnada carpeta desde el terminal usa:
 
 ```
 find /test/ -name "*.txt" -print | xargs sed -i "s/SYSADMIT/--SYSADMIT--/g"
+
+```
+
+ejemplo con ficheros .py y con ficheros .yml:
+
+```
+find /media/my_user/my_folder/ -name "*.py" -print | xargs sed -i "s/my_actual_string/my_new_string/g"
+find /media/my_user/my_folder/ -name "*.yml" -print | xargs sed -i "s/my_actual_string/my_new_string/g"
 
 ```
 
@@ -107,7 +115,7 @@ rm *.odt
 ---
 <center>
 
-[Cajón desastre](https://github.com/aitorvv96/cajon_desastre) - [Aitor Vázquez Veloso](https://www.linkedin.com/in/aitorvazquezveloso)
+[Cajón desastre](https://github.com/aitorvv/cajon_desastre) - [Aitor Vázquez Veloso](https://www.linkedin.com/in/aitorvazquezveloso)
 
 </center>
 

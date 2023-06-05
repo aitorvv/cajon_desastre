@@ -5,7 +5,7 @@
 </center>
 <center>
 
-[Cajón desastre](https://github.com/aitorvv96/cajon_desastre)
+[Cajón desastre](https://github.com/aitorvv/cajon_desastre)
 
 </center>
 
@@ -30,7 +30,7 @@ Más información [aquí](https://superuser.com/questions/689056/how-can-i-conve
 ---
 <center>
 
-[Cajón desastre](https://github.com/aitorvv96/cajon_desastre) - [Aitor Vázquez Veloso](https://www.linkedin.com/in/aitorvazquezveloso)
+[Cajón desastre](https://github.com/aitorvv/cajon_desastre) - [Aitor Vázquez Veloso](https://www.linkedin.com/in/aitorvazquezveloso)
 
 </center>
 

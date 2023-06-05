@@ -5,7 +5,7 @@
 </center>
 <center>
 
-[Cajón desastre](https://github.com/aitorvv96/cajon_desastre)
+[Cajón desastre](https://github.com/aitorvv/cajon_desastre)
 
 </center>
 
@@ -23,11 +23,14 @@ Para que la máquina virtual reconozca un usb, entonces tendremos que hacer lo q
 Por otro lado, en ocasiones mi máquina virtual no muestra los símbolos de dispositivo, audio, usb... ya sabes, esos simbolitos tan característicos de la máquina virtual. Para solucionarlo, accede en tu máquina virtual a *Configuración* > *Interfaz de usuario* y cambia el estado de visualización de *escalado* a *normal* (por algún motivo en el modo escalado desaparecen).
 
 [Aquí](https://www.virtualbox.org/wiki/Download_Old_Builds) puedes descargarte versiones anteriores de virtualbox y su correspondiente pack de extensiones.
+[Aquí](https://www.microsoft.com/es-es/software-download) puedes descargarte las versiones que quieras de Windows.
+Si lo que buscas es Ubuntu, [aquí](https://ubuntu.com/download/desktop) puedes descargarte las versiones más actuales, y en este otro [enlace][(https://old-releases.ubuntu.com/releases/) versiones anteriores.
+[Tutorial](https://www.youtube.com/watch?v=H_4P20R8F6s&ab_channel=YeaBitInform%C3%A0tica) para instalar Windows 10 en tu máquina virtual.
 
 ---
 <center>
 
-[Cajón desastre](https://github.com/aitorvv96/cajon_desastre) - [Aitor Vázquez Veloso](https://www.linkedin.com/in/aitorvazquezveloso)
+[Cajón desastre](https://github.com/aitorvv/cajon_desastre) - [Aitor Vázquez Veloso](https://www.linkedin.com/in/aitorvazquezveloso)
 
 </center>
 

@@ -5,7 +5,7 @@
 </center>
 <center>
 
-[Cajón desastre](https://github.com/aitorvv96/cajon_desastre)
+[Cajón desastre](https://github.com/aitorvv/cajon_desastre)
 
 </center>
 
@@ -16,7 +16,7 @@ Para eliminar el mensaje *Unable to update "snap store"* en Linux, utiliza [esto
 ---
 <center>
 
-[Cajón desastre](https://github.com/aitorvv96/cajon_desastre) - [Aitor Vázquez Veloso](https://www.linkedin.com/in/aitorvazquezveloso)
+[Cajón desastre](https://github.com/aitorvv/cajon_desastre) - [Aitor Vázquez Veloso](https://www.linkedin.com/in/aitorvazquezveloso)
 
 </center>
 

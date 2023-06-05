@@ -5,7 +5,7 @@
 </center>
 <center>
 
-[Cajón desastre](https://github.com/aitorvv96/cajon_desastre)
+[Cajón desastre](https://github.com/aitorvv/cajon_desastre)
 
 </center>
 
@@ -24,6 +24,10 @@ install.packages(pkg.list)
 Y con estos pasos ya tendrías todas las librerías de R instaladas. [Aquí](https://es.stackoverflow.com/questions/116203/de-que-forma-trasladar-todos-los-paquetes-de-r-de-una-instalaci%C3%B3n-a-otra) la fuente original.
 
 
+Otros recursos de interés:
+- [Modern Statistics with R](https://www.modernstatisticswithr.com/regression.html)
+
+
 Contenido:
 - 3_axis_graph.R: plantilla para desarrollar gráficos de 3 ejes con ggplot2 / *a template to develop 3 axis graphs with ggplot2* - **spanish**
 - qplot_intro: archivos .R, .Rmd, .pdf y .html (el mismo archivo) explicando los argumentos básicos de la función de R *qplot* (gráfico rápido, de la librería ggplot2) / *files .R, .Rmd, .pdf and .html (the same file) explaining basic arguments of the R function qplot (quick plot, from the library ggplot2)* - **spanish**
@@ -35,14 +39,14 @@ Contenido:
 Otros recursos / *Other resources*:
 - ggplot2 package resources: [1](https://cran.r-project.org/web/packages/ggplot2/index.html) / [2](https://ggplot2-book.org/)
 - [plot function explanation](https://www.rdocumentation.org/packages/graphics/versions/3.6.2/topics/plot)
-- [qplot function explanation](https://github.com/aitorvv96/graficos_con_R)
+- [qplot function explanation](https://github.com/aitorvv/graficos_con_R)
 - [R functions to plot](https://www.rdocumentation.org/search?q=plot)
 
 
 ---
 <center>
 
-[Cajón desastre](https://github.com/aitorvv96/cajon_desastre) - [Aitor Vázquez Veloso](https://www.linkedin.com/in/aitorvazquezveloso)
+[Cajón desastre](https://github.com/aitorvv/cajon_desastre) - [Aitor Vázquez Veloso](https://www.linkedin.com/in/aitorvazquezveloso)
 
 </center>
 
