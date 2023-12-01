@@ -24,6 +24,14 @@ pwd
 ```
 ---
 
+# Incluir una línea nueva en un archivo cuando se detecta un patrón, sea este una línea completa o una palabra
+
+Para incluir tras la palabra "pattern" o bien una línea de texto que lo sustituya una nueva línea de código, se puede hacer utilizando el siguiente comando:
+
+```
+sed -i '/pattern/a\Your new line here' path/test.txt
+```
+
 # Reemplazar una cadena de texto por otra dentro de un archivo:
 
 Para sustituir contenido de los archivos de una determinnada carpeta desde el terminal usa:
