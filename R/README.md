@@ -26,6 +26,7 @@ Y con estos pasos ya tendrías todas las librerías de R instaladas. [Aquí](htt
 
 Otros recursos de interés:
 - [Modern Statistics with R](https://www.modernstatisticswithr.com/regression.html)
+- [Varios análisis en R](https://www.linkedin.com/posts/dhaval-maheta-320200153_dear-all-i-have-uploaded-the-entire-series-activity-7170330852701290498-6VM4/?utm_source=share&utm_medium=member_android)
 
 
 Contenido:
