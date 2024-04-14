@@ -119,6 +119,45 @@ rm *.odt
 
 [Fuente](https://www.ionos.es/digitalguide/servidores/configuracion/eliminar-archivos-en-linux/)
 
+---
+
+# Problemas con "sudo apt-get update" -> NO_PUBKEY
+
+Para resolver este problema debemos ir a **Software y actualizaciones :arrow_right: Otro software" y desactivar lo que nos esté dando problemas. A continuación podemos repetir el comando *sudo apt-get update*.
+
+---
+
+# Cuando tenemos paquetes retenidos con "sudo apt-get upgrade"
+
+Cuando aplicamos *sudo apt-get upgrade* y tenemos paquetes retenidos como en el siguiente ejemplo:
+
+```
+Leyendo lista de paquetes... Hecho
+Creando árbol de dependencias... Hecho
+Leyendo la información de estado... Hecho
+Calculando la actualización... Hecho
+Los siguientes paquetes se han retenido:
+  python3-update-manager update-manager update-manager-core
+0 actualizados, 0 nuevos se instalarán, 0 para eliminar y 3 no actualizados.
+```
+
+debemos instalar los paquetes con la siguiente orden:
+
+```
+sudo apt-get install <lista de paquetes retenidos>
+```
+
+por ejemplo
+
+```
+sudo apt-get install python3-update-manager update-manager update-manager-core
+```
+
+y a continuación podemos actualizar todo de nuevo sin problemas usando
+
+```
+sudo apt-get update && sudo apt-get upgrade
+```
 
 ---
 <center>
