@@ -16,6 +16,8 @@ Mi ordenador tiene SO Linux (Ubuntu), pero para algunas tareas utilizo Microsoft
   - Solución [aquí](https://askubuntu.com/questions/900794/virtualbox-rtr3initex-failed-with-rc-1912-rc-1912)
 - Problema: *Kernel driver not installed (rc=-1908)*
   - Solución [aquí](https://ubuntinux.blogspot.com/2020/04/solucion-error-de-virtualbox-kernel.html) o [aquí](https://gacimartin.com/2019/04/15/modprobe-error-could-not-insert-vboxdrv-operation-not-permitted-where-suplibosinit-what-3-verr_vm_driver_not_installed-1908-the-support-driver-is-not-installed-on-linux-open-returned/)
+ 
+* Nota: en ocasiones he entrado en bucles de errores y los he solucionado desinstalando virtualbox y volviendo a instalar la [última versión](https://www.virtualbox.org/wiki/Linux_Downloads)
 
 
 Para que la máquina virtual reconozca un usb, entonces tendremos que hacer lo que recoge este [post](https://ubunlog.com/usb-habilitarlo-en-virtualbox/#Instalacion_de_VirtualBox_Extension_Pack) o este [otro](https://www.solvetic.com/tutoriales/article/4063-como-configurar-usb-maquina-virtual-virtualbox/). Además, en el tipo de controlador te recomiendo seleccionar *Controlador USB 3.0 (xHCI)* para asegurarte de que tu dispositivo lo va a reconocer.
