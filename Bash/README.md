@@ -24,6 +24,34 @@ pwd
 ```
 ---
 
+# Consultar el tamaño de archivos y carpetas
+
+### Tamaño total de la carpeta (incluyendo subcarpetas)
+
+```
+du -sh nombre_de_la_carpeta
+```
+
+### Listado detallado del tamaño de cada archivo y subcarpeta
+
+```
+du -ah nombre_de_la_carpeta
+```
+
+### istar los archivos más grandes en la carpeta y subcarpetas
+
+```
+du -ah nombre_de_la_carpeta | sort -rh | head -n 20
+```
+
+### Mostrar solo archivos (excluir directorios)
+
+```
+find nombre_de_la_carpeta -type f -exec du -h {} + | sort -rh | head -n 20
+```
+
+---
+
 # Incluir una línea nueva en un archivo cuando se detecta un patrón, sea este una línea completa o una palabra
 
 Para incluir tras la palabra "pattern" o bien una línea de texto que lo sustituya una nueva línea de código, se puede hacer utilizando el siguiente comando:
