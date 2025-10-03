@@ -188,6 +188,20 @@ sudo apt-get update && sudo apt-get upgrade
 ```
 
 ---
+
+# Montar disco duro externo en Linux
+
+```
+sudo mount /dev/sdc1 /mnt/
+```
+
+donde:
+
+- /dev/sdc1: disco duro externo
+- /mnt/: punto de montado
+
+
+---
 <center>
 
 [Cajón desastre](https://github.com/aitorvv/cajon_desastre) - [Aitor Vázquez Veloso](https://www.linkedin.com/in/aitorvazquezveloso)
