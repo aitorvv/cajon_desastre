@@ -1,0 +1,19 @@
+# activar
+sudo systemctl start bluetooth.service
+
+# desactivar
+sudo systemctl disable bluetooth.service
+
+# apagar manualmente
+sudo systemctl stop bluetooth.service
+
+# verificar estado
+systemctl status bluetooth.service
+
+# apagar por defecto
+sudo nano /etc/bluetooth/main.conf
+
+```
+AutoEnable=false
+```
+

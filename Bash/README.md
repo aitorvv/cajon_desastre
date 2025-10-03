@@ -11,6 +11,14 @@
 
 ---
 
+# Configuración bluetooth
+
+ver [aquí](bluetooth.txt)
+
+# Configuración montado discos duros externos
+
+ver [aquí](montado_discos_ubuntu.md)
+
 # Copiar y pegar en el terminal de Linux:
 
 Usa **Ctrl + Shift + C** para copiar.
